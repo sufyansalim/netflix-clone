@@ -2,6 +2,8 @@
 
 ## React
 
+## [Live Site](https://firelist-e6c2c.web.app/)
+
 ![Netflix](netflix.png)
 
 
